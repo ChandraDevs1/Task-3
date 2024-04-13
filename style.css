@@ -1,0 +1,78 @@
+body{
+    border: 4px solid black;
+   
+}
+
+ .box{
+    background-color: #ed5629;
+     overflow: auto;
+     padding-left: 12px;
+ }
+#f1{
+    color:blueviolet;
+}
+
+#f2{
+   background-color: greenyellow;
+   color: rgb(26, 26, 112);
+}
+
+.dark{
+    color: red;
+}
+
+#f3{
+    color: rgb(224, 100, 11);
+}
+
+#f4{
+    color: rgb(251, 252, 253);
+}
+
+#f5{
+    color: green;
+}
+
+#f6{
+    color: rgb(195, 201, 207);
+}
+
+.col{
+    color :brown;
+}
+
+
+ul li{
+   color :rgb(14, 14, 14);
+
+}
+
+.yell{
+    color : rgb(167, 161, 161);
+    background-color: yellow;
+}
+
+.blu{
+    color: white;
+    background-color :rgb(11, 11, 133)
+}
+
+ol li{
+    color :rgb(128, 129, 130);
+}
+
+ul li{
+   color : rgb(238, 235, 236); 
+}
+.red{
+    color : rgb(154, 5, 5);
+}
+
+#pik{
+    color: rgb(51, 9, 167);
+}
+
+#oran{
+    color: orange;
+}
+
